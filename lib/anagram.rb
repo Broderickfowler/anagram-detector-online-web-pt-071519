@@ -11,7 +11,6 @@ end
     array_of_words.each do |e|
       @word.split("").sort == e.split("").sort
     end
-  end
 end
   
   
